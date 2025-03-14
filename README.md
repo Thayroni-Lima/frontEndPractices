@@ -24,11 +24,11 @@ Cada pasta contém um projeto específico, com uma breve descrição sobre o que
    git clone https://github.com/Thayroni-Lima/frontEndPractices
 
 
-# 🤝 Contribuições
+### 🤝 Contribuições
 
 Este repositório é voltado para aprendizado pessoal, mas estou aberto a sugestões e contribuições para melhorar meus projetos. Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-#📫 Contato
+### 📫 Contato
 
 Se você tiver dúvidas ou sugestões, pode me encontrar no LinkedIn ou me enviar um e-mail para thayronivflima@gmail.com.
 
