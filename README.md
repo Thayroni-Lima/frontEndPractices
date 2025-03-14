@@ -21,7 +21,7 @@ Cada pasta contém um projeto específico, com uma breve descrição sobre o que
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Thayroni-Lima/frontEndPractices
+   git clone https://github.com/Thayroni-Lima/frontEndPractices/[nome do projeto específico]
 
 
 ### 🤝 Contribuições
